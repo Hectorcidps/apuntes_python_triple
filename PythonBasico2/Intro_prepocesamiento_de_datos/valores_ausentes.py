@@ -39,7 +39,7 @@ print(df.isna().sum()) # imprime TODAS las columnas con el total de valores ause
 
 
 '''
-################# Metodo Fillan ############
+################# Metodo Fillna ############
 Los valores ausentes se pueden reemplazar con otros valores, ya que las demas columnas de una fila pueden contener datos valiosos
 por lo cual podemos usar el metodo: 
 fillan() ----> completar valores ausentes
